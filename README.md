@@ -20,5 +20,5 @@ jobs:
         uses: viniciusCSreis/action-fast-merge@v1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 ```
+FIM
